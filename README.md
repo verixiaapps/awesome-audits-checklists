@@ -209,6 +209,9 @@
 ### Binance Chain
 - [BNB Chain Security Tips](https://cantina.xyz/blog/bnb-chain-security-tips) — by Cantina  
   Top 15 security recommendations for BNB Chain developers covering vulnerability patterns, exploit defenses, and secure engineering practices specific to BNB Chain development.
+### Hyperliquid
+- [Pitfalls of LST on Hyperliquid](https://medium.com/@talfao_94085/implementation-and-security-pitfalls-of-lst-on-hyperliquid-b83b8fd42713) — by Talfao    
+  Implementation and Security Pitfalls of LST on Hyperliquid. 
 
 ## 10. **Wallets Security**
 - [Web3 Wallet Security Checklist](https://blockapex.io/web3-wallet-security-checklist/) — by BlockApex  
