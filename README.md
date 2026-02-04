@@ -19,10 +19,10 @@
 - [Contribution](#contribution)
 
 ## 1. **General Smart Contracts Security & Audit Checklists**
-- [Solodit Checklist](https://solodit.cyfrin.io/checklist) — by Cyfrin  
-  An actionable checklist for auditing and reviewing Solidity smart contracts.
 - [Ultimate Security Checklist](https://www.beirao.xyz/blog/Security-checklist) — by Beirao  
   A comprehensive checklist covering all essential aspects of smart contract security.
+- [Solodit Checklist](https://solodit.cyfrin.io/checklist) — by Cyfrin  
+  An actionable checklist for auditing and reviewing Solidity smart contracts.
 - [General Audit Checklist](https://github.com/tamjid0x01/SmartContracts-audit-checklist) — by Tamjid  
   A general-purpose checklist for smart contract audits, covering common vulnerabilities.
 - [SCSVS - Smart Contract Security Verification Standard](https://github.com/ComposableSecurity/SCSVS) — by Composable Security  
